@@ -70,3 +70,6 @@ end
 puts["Doc","Dopey", "Bashful", "Grumpy"]
 #=> Doc, Dopey, Bashful, Grumpy
 
+captian_planet = ["earth", "wind", "fire", "water" "air", "heart"]
+captain_planter (captain calling all)
+#=> ["Earth!", "Wind!", "Fire!", "Water!", "Air!", "Heart!"]

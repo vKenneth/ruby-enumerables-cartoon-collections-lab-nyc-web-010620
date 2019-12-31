@@ -82,3 +82,6 @@ assorted_words = ["two", "three", "four", "five"]
 longer_calls(assorted_words)
 #=> true
 
+snacks = ["chips", "ceral", "organic non-gmo no dairy cookies"]
+find_the_organic(snacks)
+#=> "organic non-gmo no dairy cookies"

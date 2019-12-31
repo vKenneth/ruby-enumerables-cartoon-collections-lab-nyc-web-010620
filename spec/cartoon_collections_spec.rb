@@ -67,6 +67,6 @@ describe "Cartoon Collections" do
   end
 end
 
-puts ["Doc","Dopey", "Bashful", "Grumpy"]
+puts["Doc","Dopey", "Bashful", "Grumpy"]
 #=> Doc, Dopey, Bashful, Grumpy
 

@@ -66,3 +66,7 @@ describe "Cartoon Collections" do
     end
   end
 end
+
+["Doc","Dopey", "Bashful", "Grumpy"]
+#=> Doc, Dopey, Bashful, Grumpy
+

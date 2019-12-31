@@ -73,3 +73,11 @@ puts["Doc","Dopey", "Bashful", "Grumpy"]
 captian_planet = ["earth", "wind", "fire", "water" "air", "heart"]
 captain_planter (captain calling all)
 #=> ["Earth!", "Wind!", "Fire!", "Water!", "Air!", "Heart!"].map
+
+calls_short = ["wait", "high-ground", "retake"]
+longer_calls(short_words)
+#=> false
+
+assorted_words = ["two", "three", "four", "five"]
+longer_calls(assorted_words)
+#=> true
